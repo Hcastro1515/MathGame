@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "5YL4TTNUZOcs2TBWSARHfgOE6fKECFdEynVyg89oLPFl+q+OUS8Utv4hAluvEpSCsPWiOyoznNTtrPxlVveDyQ==",
+  "success": true,
+  "projectFilePath": "/home/mavis/repos/csharp/MathGame/MathGame.csproj",
+  "expectedPackageFiles": [
+    "/home/mavis/.nuget/packages/spectre.console/0.47.0/spectre.console.0.47.0.nupkg.sha512",
+    "/home/mavis/.nuget/packages/system.memory/4.5.5/system.memory.4.5.5.nupkg.sha512"
+  ],
+  "logs": []
+}

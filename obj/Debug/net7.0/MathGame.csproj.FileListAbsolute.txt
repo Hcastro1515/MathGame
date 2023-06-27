@@ -1,0 +1,17 @@
+/home/mavis/repos/csharp/MathGame/bin/Debug/net7.0/MathGame
+/home/mavis/repos/csharp/MathGame/bin/Debug/net7.0/MathGame.deps.json
+/home/mavis/repos/csharp/MathGame/bin/Debug/net7.0/MathGame.runtimeconfig.json
+/home/mavis/repos/csharp/MathGame/bin/Debug/net7.0/MathGame.dll
+/home/mavis/repos/csharp/MathGame/bin/Debug/net7.0/MathGame.pdb
+/home/mavis/repos/csharp/MathGame/obj/Debug/net7.0/MathGame.csproj.AssemblyReference.cache
+/home/mavis/repos/csharp/MathGame/obj/Debug/net7.0/MathGame.GeneratedMSBuildEditorConfig.editorconfig
+/home/mavis/repos/csharp/MathGame/obj/Debug/net7.0/MathGame.AssemblyInfoInputs.cache
+/home/mavis/repos/csharp/MathGame/obj/Debug/net7.0/MathGame.AssemblyInfo.cs
+/home/mavis/repos/csharp/MathGame/obj/Debug/net7.0/MathGame.csproj.CoreCompileInputs.cache
+/home/mavis/repos/csharp/MathGame/obj/Debug/net7.0/MathGame.dll
+/home/mavis/repos/csharp/MathGame/obj/Debug/net7.0/refint/MathGame.dll
+/home/mavis/repos/csharp/MathGame/obj/Debug/net7.0/MathGame.pdb
+/home/mavis/repos/csharp/MathGame/obj/Debug/net7.0/MathGame.genruntimeconfig.cache
+/home/mavis/repos/csharp/MathGame/obj/Debug/net7.0/ref/MathGame.dll
+/home/mavis/repos/csharp/MathGame/bin/Debug/net7.0/Spectre.Console.dll
+/home/mavis/repos/csharp/MathGame/obj/Debug/net7.0/MathGame.csproj.CopyComplete
